@@ -4,7 +4,7 @@ Given chemical shifts and J-coupling values, produce simulated amplitude and fre
 See `/examples/simulate.jl` for an example.
 
 # Install
-From a Julia REPL or script, add the custom registries before adding the package:
+From a Julia REPL or script, add the custom registry before adding the package:
 
 ```
 using Pkg
